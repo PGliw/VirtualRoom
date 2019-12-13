@@ -4,7 +4,7 @@ Android app for virtual walk in a room modeled and rendered in 3ds Max.
 
 ### Preview
 
-[!gif](https://media.giphy.com/media/lOruKWbr7EOTEURtfY/giphy.gif)
+![gif](https://media.giphy.com/media/lOruKWbr7EOTEURtfY/giphy.gif)
 
 ### Desciption
 This is a project for subject *Multimedia Systems Programming* at Wrocław University of Science and Technology.
