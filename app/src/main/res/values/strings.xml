@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VirtualRoom</string>
+    <string name="_3d_model_of_a_room">3D model of a room</string>
+    <string name="circle_pointing_the_tv">Circle pointing the TV</string>
+    <string name="tv_popup_message">To jest bardzo drogi telewizor</string>
+    <string name="vases_popup_message">To są bardzo drogie wazy</string>
+    <string name="bookcase_popup_message">To tu stoją wartościowe ksiązki </string>
+</resources>
